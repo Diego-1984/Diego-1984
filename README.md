@@ -2,7 +2,7 @@ Welcome to my GitHub profile!
 
 🌱 I’m currently learning python and javascript.
 
-💻 I love working on backend projects, but I have knowleages in frontend as well.
+💻 I love working on backend projects, but I have knowledge of frontend as well.
 
 📫 How to reach me: www.linkedin.com/in/diegomenor.
 
